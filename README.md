@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ricardo 🖐️
 Entusiasta em programação Front-end e Back-end.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicoVieira&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicoVieira&show_icons=true&locale=pt-br&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricoVieira&layout=compact&langs_count=8&card_width=240&locale=pt-br&theme=dark)
 ##
 <div style="display: inline_block"><br>
