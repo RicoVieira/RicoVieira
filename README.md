@@ -1,9 +1,14 @@
 ## Olá! Eu sou o Ricardo 🖐️
-Entusiasta em programação Front-end e Back-end.
+ <ul>
+    <li>Sou de <strong>Salvador/BA</strong> 🏖️
+      <li>Atualmente fazendo faculdade de <strong>Gestão de TI</strong></li>
+   </ul>
+   
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicoVieira&show_icons=true&locale=pt-br&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricoVieira&layout=compact&langs_count=8&card_width=240&locale=pt-br&theme=dark)
-##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
