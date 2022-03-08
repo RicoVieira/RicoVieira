@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Ricardo 🖐️
  <ul>
-    <li>Sou de <strong>Salvador/BA</strong> 🏖️
+    <li>Sou de <strong>Salvador/BA</strong>
       <li>Atualmente fazendo faculdade de <strong>Gestão de TI</strong></li>
    </ul>
    
